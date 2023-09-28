@@ -1,0 +1,122 @@
+ifconfig
+ipconfig
+exit
+exit
+ls
+pwed
+pwd
+cd ..
+ls
+exit
+exit
+make
+pwd
+ls
+cd src
+ls
+cd ..
+make
+make
+pwd
+ls
+./scanner test/test_cases/1_keywords1.p
+cd src
+ls
+./scanner ../test/test_cases/1_keywords1.p
+./scanner 1_keywords1.p
+cd ..
+pwd
+cd ..
+ls
+cd student
+make test
+pwd
+make
+make test
+make
+clear
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+make
+make
+make
+make
+make test
+make test
+make
+make test
+make
+make test
+make
+make test
+ls
+make
+make
+make test
+make
+make test
+make
+make test
+make
+make
+make
+make test
+
+make
+make
+make test
+make
+make
+make
+make test
+make
+make test
+make
+make test
+make
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+make
+make
+make
+make
+make
+make
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+make
+make test
+exit
+make
+make test
+exit
