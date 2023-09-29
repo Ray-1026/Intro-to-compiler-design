@@ -9,7 +9,7 @@ Semester : 2023 Fall
 
 ## Assignment 1 - Lexical Definition
 
-### [spec]()
+### [spec](./Assignment1/README.md)
 
 ### Usage
 ```bash
