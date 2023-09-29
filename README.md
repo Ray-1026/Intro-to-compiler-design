@@ -8,9 +8,12 @@ Semester : 2023 Fall
 `Ubuntu 18.04`
 
 ## Assignment 1 - Lexical Definition
+
+### [spec]()
+
 ### Usage
 ```bash
-cd Intro-to-compiler-design/HW1
+cd Intro-to-compiler-design/Assignment1
 make docker-pull
 ./activate_docker.sh
 make
