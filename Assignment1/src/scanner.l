@@ -89,7 +89,7 @@ pseudocomment [/]{2}\&[A-Z][+-].*
 "read"    {LIST_TOKEN("KWread");}
 "return"  {LIST_TOKEN("KWreturn");}
 
-    /*Identidiers*/
+    /*Identifiers*/
 {id} {LIST_LITERAL("id", yytext);}
 
     /*Integer Constants*/
