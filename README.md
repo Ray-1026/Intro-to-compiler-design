@@ -8,10 +8,13 @@ Semester : 2023 Fall
 `Ubuntu 18.04`
 
 ## Assignments
-|              | Topic                              | Grade   |
-|:------------:|:----------------------------------:|:-------:|
-| Assignment 1 | Lexical Definition                 | 105/105 |
-| Assignment 2 | Syntactic Definitions              | 116/116 |
-| Assignment 3 | Constructing Abstract Syntax Trees | 115/115 |
-| Assignment 4 | Semantic Analyses                  | 105/105 |
-| Assignment 5 | Code Generation                    |  98/119 |
+|              | Topic                              |
+|:------------:|:----------------------------------:|
+| Assignment 1 | Lexical Definition                 |
+| Assignment 2 | Syntactic Definitions              |
+| Assignment 3 | Constructing Abstract Syntax Trees |
+| Assignment 4 | Semantic Analyses                  |
+| Assignment 5 | Code Generation                    |
+
+
+*Bonus part in assignment 5 is not completed.
